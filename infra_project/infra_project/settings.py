@@ -29,7 +29,6 @@ ALLOWED_HOSTS = [
     '51.250.9.156', 'localhost'
 ]
 
-
 # Application definition
 
 INSTALLED_APPS = [
